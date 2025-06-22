@@ -55,6 +55,38 @@ const AboutPage: React.FC = () => {
         </div>
       </div>
 
+
+
+      <div className={styles.container}>
+        <div className={styles.block3}>
+          <div className={styles.imagePlaceholder1}></div>
+
+          <div className={styles.square2}>
+            <h1 className={styles.title2}>Team Spirit</h1>
+            <p style={{ fontFamily: "Arial, Helvetica, sans-serif" }}>
+              We priortize learning, diversity, and a passion for technology.
+            </p>
+          </div>
+        </div>
+        <div className={styles.block4}>
+
+        <button className={styles.button1} type="submit">
+          Learn More
+        </button>
+        </div>
+      </div>
+
+
+
+
+      
+
+
+
+
+
+      
+
       <div className={styles.container}>
         <div className={styles.block1}>
           <h1 className={styles.title2}>Our Culture</h1>
