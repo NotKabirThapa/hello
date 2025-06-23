@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 
 import styles from "./about_us.module.css";
 
-const AboutPage: React.FC = () => {
+const AboutUs: React.FC = () => {
   const sliderTexts = [
     "Join Us in Making a Difference",
     "Innovating Technology, Empowering People",
@@ -182,4 +182,4 @@ const AboutPage: React.FC = () => {
   );
 };
 
-export default AboutPage;
+export default AboutUs;
