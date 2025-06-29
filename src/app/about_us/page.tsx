@@ -50,7 +50,7 @@ const AboutUs: React.FC = () => {
   ];
 
   return (
-    <main style={{ maxWidth: "100%", margin: "0 auto", padding: "2rem" }}>
+    <main>
       <div className={styles.block}>
         <h1 className={styles.title}>About Us</h1>
         <p

@@ -49,7 +49,7 @@ align-items: flex-start;
   padding: 2rem;
   margin: 0 auto;
   flex-wrap: wrap;
-  border-bottom: 2px solid #bfbbbb;
+  border-bottom: 2px solid #dddada;
 }
 .title1 {
   font-weight: 700;
@@ -137,7 +137,7 @@ align-items: flex-start;
   
   padding: 20px;
   text-align: center;
-  border-bottom: 2px solid #bfbbbb;
+  border-bottom: 2px solid #dddada;
 }
 .title3{
 
@@ -150,7 +150,7 @@ align-items: flex-start;
   text-align: center;
   padding: 3rem 1rem;
   background-color: #ffffff;
-  border-bottom: 2px solid #bfbbbb;
+  border-bottom: 2px solid #dddada;
 }
 
 .heading {
